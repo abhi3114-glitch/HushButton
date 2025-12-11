@@ -1,0 +1,30 @@
+[0] Headphones (Realtek(R) Audio)
+    Error inspecting: (-2004287484, None, (None, None, None, 0, None))
+[1] NVIDIA Output (NVIDIA High Definition Audio)
+    Error inspecting: (-2004287484, None, (None, None, None, 0, None))
+[2] Speakers (Realtek(R) Audio)
+    Muted: 1
+[3] Headphones (Realtek(R) Audio)
+    Muted: 0
+[4] Headphones (Boult Audio Airbass)
+    Muted: 0
+[5] Digital Output (High Definition Audio Device)
+    Error inspecting: (-2004287484, None, (None, None, None, 0, None))
+[6] Speakers (Realtek(R) Audio)
+    Error inspecting: (-2147024894, 'The system cannot find the file specified.', (None, None, None, 0, None))
+[7] Digital Output (High Definition Audio Device)
+    Error inspecting: (-2004287484, None, (None, None, None, 0, None))
+[8] NVIDIA Output (NVIDIA High Definition Audio)
+    Error inspecting: (-2004287484, None, (None, None, None, 0, None))
+[9] Microphone (Realtek(R) Audio)
+    Muted: 0
+[10] Stereo Mix (Realtek(R) Audio)
+    Muted: 0
+[11] Microphone Array (Realtek(R) Audio)
+    Muted: 0
+[12] Microphone (Realtek(R) Audio)
+    Error inspecting: (-2147024894, 'The system cannot find the file specified.', (None, None, None, 0, None))
+[13] Microphone (Camo)
+    Muted: 0
+[14] Headset (Boult Audio Airbass)
+    Muted: 0
